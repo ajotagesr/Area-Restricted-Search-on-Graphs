@@ -1,0 +1,33 @@
+1. Hablar en términos muy generales del problema
+    - Búsqueda en gráfos:
+        - ARS -> ventajas???
+    - Hablar de qué voy a hacer en cada capítulo
+
+2. Técnico / Estado del arte / Background
+    - Intro a paseos aleatorios
+        - Random Walk (en gráfo)
+        - PageRank Random Walk (en gráfo)
+        - ARS (en el plano)
+    - Cómo funcionan los gráfos de ERDOS
+
+(HASTA AQUÍ NO APARECE NADA HECHO POR MÍ)
+
+3. Descripción de lo que he hecho
+    - Cómo construyo los gráfos
+    - Cómo funciona mi implementación de ARS en gráfos
+
+4. Resultados
+    - Plots, gráficas, discutir resultados
+
+5. Conclusiones
+    - "Hemos hecho esto ..."
+    - La introducción pero a pasado
+    - (no se las lee nadie)
+
+---
+Bibliografía
+---
+Límite de 40 páginas
+Se pueden incluir apéndices, pero tienen porqué leerlos
+
+
